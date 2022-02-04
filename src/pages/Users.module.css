@@ -1,0 +1,93 @@
+.dashboard{
+    color: black;
+    text-align: left;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+.Containerr{
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.RowTitle{
+    padding: 20px;
+    border-bottom:2px solid #F0F0F0;
+}
+.RowTitle1{
+    background-color: #F5F5F5;
+    padding: 20px;
+    border:2px solid #F0F0F0;
+}
+.RowTitle3{
+    padding: 20px;
+    border:2px solid #F0F0F0;
+}
+.UserListButton{
+    margin-left: 76%;
+    
+    width: 20%;
+    height: 30px;
+    font-weight: bolder;
+    text-align: center;
+}
+.MainContainer{
+    border:2px solid #F0F0F0;
+}
+.BigMainContainer{
+    padding: 15px;
+}
+.userbutton{
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    color: white;
+    float: right;
+    border-radius: 5px;
+}
+.userbutton1{
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: red;
+    border: none;
+    color: white;
+    float: right;
+    border-radius: 5px;
+}
+.userbutton2{
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: grey;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    float: right;
+    margin-right: 5px;
+}
+.h2style{
+font-size: 20px;
+background-color: black;
+}
+
+.delete{
+    float: left;
+    margin-right: 30px;
+    font-weight: bolder;
+    
+}
+.rowdelete{
+    float: left;
+    border-bottom: 2px solid #F0F0F0;
+    margin-bottom: 5px;
+    width: 100%;
+}
+.userlist{
+    float: left;
+}
+.column{
+    float: left;
+}

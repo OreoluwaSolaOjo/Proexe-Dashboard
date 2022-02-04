@@ -1,0 +1,38 @@
+.header {
+    background-color: #424242;
+    display: flex;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    height: 50px;
+    margin-bottom: 30px;
+  }
+.dashboardtext{
+    color: #F0F0F0;   
+    text-align: center;
+    margin-left: 42%;
+    
+}
+.colcircle{
+    border-radius: 50%;
+    background-color: #656565;
+    height: 15px;
+    width: 15px;
+    margin: 5px;
+}
+.colcircle1{
+    border-radius: 50%;
+    background-color: #424242;
+    height: 15px;
+    width: 15px;
+    margin: 5px;
+}
+.dashboard{
+    color: black;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+.headercontainer{
+    width: 100%;
+}

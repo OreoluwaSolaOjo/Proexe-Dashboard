@@ -1,0 +1,69 @@
+.Containerr{
+    border-radius: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-bottom: 100px;
+    padding-top: 30px;
+    margin-top: 50px;
+}
+.BigMainContainer{
+    padding: 15px;
+    border-top:2px solid #F0F0F0;
+}
+.Containerr2{
+padding: 30px;
+text-align: left;
+font-weight: bolder;
+}
+.submitButton{
+    float: right;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-top: 30px;
+   
+}
+.submitButton1{
+    float: right;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 10px;
+    margin-top: 30px;
+    color: white;
+    background-color: #5FB760;
+}
+.create {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .label {
+   margin-left: 40%;
+   margin-top: 5px;
+  }
+  .formrow{
+      align-items: center;
+  }
+  .create h2 {
+    font-size: 20px;
+    color: #f1356d;
+    margin-bottom: 30px;
+  }
+  .create input, .create textarea, .create select {
+    width: 100%;
+    padding: 6px 10px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    box-sizing: border-box;
+    display: block;
+  }
+  .errorstyles{
+    color: #f1356d;
+    font-size: small;
+  }
+  .dashboard{
+    color: black;
+    text-align: left;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+  
